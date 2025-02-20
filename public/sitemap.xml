@@ -44,10 +44,10 @@
     <loc>http://localhost:4534/categories/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4534/</loc>
+    <loc>http://localhost:4534/blog/social/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4534/blog/social/</loc>
+    <loc>http://localhost:4534/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4534/categories/theme-features/</loc>
