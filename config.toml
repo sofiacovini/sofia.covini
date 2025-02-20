@@ -116,7 +116,7 @@ enableEmoji = true
       url       = "https://www.facebook.com/profile.php?id=100077658291371"
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
-      icon_pack = "fas"
+      icon_pack = "fab"
       url       = "https://www.linkedin.com/in/sofiacovinif/"
 
 [taxonomies]
