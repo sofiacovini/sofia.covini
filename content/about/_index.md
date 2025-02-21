@@ -6,7 +6,7 @@ description: |
 headless: false
 show_header: true
 sidebar_left: false
-title: About
+title: About Me
 ---
 
 ** index doesn't contain a body, just front matter above.
