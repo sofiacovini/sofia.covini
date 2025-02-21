@@ -127,7 +127,7 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "About"
+    name = "About Me"
     title = "About Blogophonic"
     url = "/about/"
     weight = 1
