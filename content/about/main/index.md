@@ -1,12 +1,23 @@
 ---
 ## Configure page content in wide column
-title: "Proffesional Summary" 
+title: "Education" 
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-Hi! I am an enthusiastic and motivated undergraduate student working towards a BSc in Medical genetics and seeking a job opportunity that will allow me to apply my social and communication skills, as well as provide me with work experience. Offering strong leadership, time-management, team-working, and communication skills to deliver successful outcomes.  
+**University of Huddersfield** *(Sep 2023 - May 2026)*
+
+- BSc (Hons) Medical Genetics FT route
+
+**University of Huddersfield ISC** *(Oct 2022 - Jun 2023)*
+
+- International Foundation Year Engineering, Computing and Science
+
+**Instituto Ballester Deutsche Schule** *(Jan 2019 - Nov 2021)*
+
+- Bilingual Diploma of the International Baccalaureate
+- Bilingual Baccalaureate of Secondary Education
 
 show_outro: true
 outro: |
