@@ -1,14 +1,14 @@
 ---
-action_label: Read More &rarr;
+action_label: About Me &rarr;
 action_link: /about
 action_type: text
-description: Hello!
+description: Hello! Long texts about me blah blah blah
 image_left: true
 images:
 - img/revoir.jpg
 show_action_link: true
 show_social_links: true
-subtitle: My protfolio :)
+subtitle: Second year Medical Genetics undergraduate student.
 text_align_left: false
 title: Sofia Covini
 type: home

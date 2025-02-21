@@ -7,4 +7,4 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I'm an enthusiastic and motivated undergraduate student working towards a BSc in Medical genetics and seeking a job opportunity that will allow me to apply my social and communication skills, as well as provide me with work experience. Offering strong leadership, time-management, team-working, and communication skills to deliver successful outcomes.
+I'm an undergraduate student currently working towards a BSc in Medical genetics at the University of Huddersfield.
