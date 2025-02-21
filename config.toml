@@ -29,8 +29,8 @@ enableEmoji = true
     
 [params]
   orgName = "Sofia Covini"
-  orgLocal = 
-  description = 
+  orgLocal = ""
+  description = ""
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
   mainSections = ["blog", "project", "talk"]
