@@ -4,7 +4,7 @@ title: "Who am I?"
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
-show_intro: true
+show_intro: false
 intro: |
   I am an undergraduate studnet at the University of Huddersfield working towards a Medical Genetics BSc.
   I use this website as a digital portfolio where I share the projects I am working on.
