@@ -1,7 +1,5 @@
 baseURL = "https://www.sofia.covini.org/"
 theme = "hugo-apero"
-ignoreLogs = 
-['warning-frontmatter-params-overrides']
 languageCode = "en"
 title = "Sofia Covini"
 author = "Sofia Covini"
@@ -50,7 +48,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: earth / forest / grayscale / magma / paper / peach / plum /
   #         poppy / primer / sky / violet / water 
-  theme = "water"
+  theme = "plum"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
