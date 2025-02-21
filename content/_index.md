@@ -5,7 +5,7 @@ action_type: text
 description: Hi, I am an international student from Argentina studying in the UK.
 image_left: true
 images:
-- img/revoir.jpg
+- avatar.png
 show_action_link: true
 show_social_links: true
 subtitle: Medical Genetics undergraduate student
