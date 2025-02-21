@@ -7,12 +7,12 @@ show_social_links: true # specify social accounts in site config
 audio_link_label: "" # leave blank to exclude
 link_list_label: "Talk to me about..." 
 link_list:
-- name: Severance
+- name: How good Severance is
   url: https://tv.apple.com/gb/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: The use of CRISPRa to treat mouse obesity
+  url: https://www.nature.com/articles/s41467-025-56755-4
+- name: My latest run :)
+  url: https://www.strava.com/dashboard
 ---
 
 ** index doesn't contain a body, just front matter above.
