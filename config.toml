@@ -1,5 +1,7 @@
 baseURL = "https://www.sofia.covini.org/"
 theme = "hugo-apero"
+ignoreLogs = 
+['warning-frontmatter-params-overrides']
 languageCode = "en"
 title = "Sofia Covini"
 author = "Sofia Covini"
