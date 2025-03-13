@@ -58,8 +58,8 @@ enableEmoji = true
   # serif options: Fraunces / EB Garamond
   # sans-serif options: Commissioner / Metropolis
   # if you import your own fonts, name them here too
-  customtextFontFamily = "Genty"
-  customheadingFontFamily = "Genty"
+  customtextFontFamily = "Commissioner"
+  customheadingFontFamily = "Fraunces"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "sans-serif"
