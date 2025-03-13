@@ -1,1 +1,8 @@
-// Override this file to add your own SCSS styling.
+@font-face {
+  font-family: 'Genty';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('static/fonts/GentyDemo-Regular.otf') format('otf'), 
+       url('static/fonts/GentyDemo-Regular.ttf) format('ttf'); 
+}
