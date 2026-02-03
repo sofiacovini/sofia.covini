@@ -4,10 +4,9 @@ categories:
 - Theme Features
 date: "2026-01-27"
 draft: false
-excerpt: This theme offers built-in Font Awesome icons for organizing your collection
-  of social accounts and their links. Use icons to help visitors find you wherever
-  you want to be found, and learn how to show or hide them in your site's header,
-  footer, homepage, about page, and contact form.
+excerpt: This page is a highlight of my experience at my first ever job at Revolution Huddersfield, where I not only developed myself immensely but also found a second home.
+images:
+  - managers.png
 layout: single
 title: Team Leader at Revolution Huddersfield
 ---
@@ -19,17 +18,17 @@ Starting off as a Bar Staff and being promoted to Team Leader after my first yea
 
 However, above all else, the most valuable thing I take with me are all the unforgettable memories and relationships I’ve built with all these amazing people. The team at Revolution Huddersfield was truly a family, and one I’m incredibly proud to have been a part of.
 
-
-img1 <-  rasterGrob(as.raster(readPNG("~/Desktop/GIS/project/jpg/yek.png")), interpolate = FALSE)
-img2 <-  rasterGrob(as.raster(readPNG("~/Desktop/GIS/project/jpg/do.png")), interpolate = FALSE)
-grid.arrange(img1, img2, ncol = 2)
-
-![Image](managers.png), ![Image](photobooth.jpg)
-![Image](student.jpg), ![Image](society.jpg)
-![Image](student1.jpg), ![Image](student2.jpg)
-![Image](promo.jpg), ![Image](cocktail.jpg)
+![Image](managers.png)
+![Image](photobooth.jpg)
+![Image](student.jpg)
+![Image](society.jpg)
+![Image](student1.jpg)
+![Image](student2.jpg)
+![Image](promo.jpg)
+![Image](cocktail.jpg)
 ![Image](managers2.jpg)
-![Image](wall.jpg),![Image](signs.jpg)
+![Image](wall.jpg)
+![Image](signs.jpg)
 ![Image](team.jpg)
 
 
