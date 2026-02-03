@@ -6,7 +6,7 @@ date: "2026-01-27"
 draft: false
 excerpt: This page is a highlight of my experience at my first ever job at Revolution Huddersfield, where I not only developed myself immensely but also found a second home.
 images:
-  - managers.png
+  - static/managers.png
 layout: single
 title: Team Leader at Revolution Huddersfield
 ---
