@@ -100,26 +100,25 @@ enableEmoji = true
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   [[params.social]]
-      icon      = "github" # icon name without the 'fa-'
+      icon      = "github" 
       icon_pack = "fab"
       url       = "https://github.com/sofiacovini"
   [[params.social]]
-      icon      = "instagram" # icon name without the 'fa-'
+      icon      = "instagram" 
       icon_pack = "fab"
       url       = "https://www.instagram.com/sofia.covini/"
   [[params.social]]
-      icon      = "facebook" # icon name without the 'fa-'
+      icon      = "facebook"
       icon_pack = "fab"
       url       = "https://www.facebook.com/profile.php?id=100077658291371"
   [[params.social]]
-      icon      = "linkedin" # icon name without the 'fa-'
+      icon      = "linkedin" 
       icon_pack = "fab"
       url       = "www.linkedin.com/in/sofiacovini"
 
 [taxonomies]
   category = "categories"
   series = "series"
-  tag = "tags"
 
 [menu]
   # Configure header 
