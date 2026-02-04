@@ -20,8 +20,7 @@ Starting off as a Bar Staff and being promoted to Team Leader after my first yea
 
 However, above all else, the most valuable thing I take with me are all the unforgettable memories and relationships I’ve built with all these amazing people. The team at Revolution Huddersfield was truly a family, and one I’m incredibly proud to have been a part of.
 
-![Image](managers.png)
-![Image](photobooth.jpg)
+![Image](managers.png) | ![Image](photobooth.jpg)
 ![Image](student.jpg)
 ![Image](society.jpg)
 ![Image](student1.jpg)
