@@ -5,8 +5,10 @@ categories:
 date: "2026-01-27"
 draft: false
 excerpt: This page is a highlight of my experience at my first ever job at Revolution Huddersfield, where I not only developed myself immensely but also found a second home.
+description:  Hi, I'm Sofia! I created this website as a way to introduce myself beyond just a regular CV. Here, you'll find an insight into all my research projects, all of which I hope will continue to grow and evolve into something worth reading.
+image_left: true
 images:
-  - static/managers.png
+- managers.png
 layout: single
 title: Team Leader at Revolution Huddersfield
 ---
