@@ -123,8 +123,8 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "About Me"
-    title = "About Blogophonic"
+    name = "Base Camp"
+    title = "Base Camp"
     url = "/about/"
     weight = 1
   [[menu.header]]
@@ -134,41 +134,31 @@ enableEmoji = true
     weight = 2
   [[menu.header]]
     name = "Projects"
-    title = "Project Portfolio"
+    title = "Projects"
     url = "/project/"
     weight = 3
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
+    name = "Vault"
+    title = "Vault"
     url = "/talk/"
     weight = 4
   [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
-    weight = 5
-  [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
+    name = "Contact"
+    title = "Contact"
     url = "/elements/"
-    weight = 6
+    weight = 5
     
   # Configure footer  
-  [[menu.footer]]
-    name = "License"
-    title = "License"
-    url = "/license/"
-    weight = 1
   [[menu.footer]]
     name = "Contact"
     title = "Contact form"
     url = "/contact/"
-    weight = 2
+    weight = 1
   [[menu.footer]]
     name = "Contributors"
     title = "Contributors"
     url = "/contributors/"
-    weight = 3
+    weight = 2
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
