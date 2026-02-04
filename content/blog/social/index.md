@@ -4,11 +4,11 @@ categories:
 - Theme Features
 date: "2026-01-27"
 draft: false
-excerpt: This page is a highlight of my experience at my first ever job at Revolution Huddersfield, where I not only developed myself immensely but also found a second home.
-description:  Hi, I'm Sofia! I created this website as a way to introduce myself beyond just a regular CV. Here, you'll find an insight into all my research projects, all of which I hope will continue to grow and evolve into something worth reading.
 image_left: true
 images:
 - managers.png
+excerpt: This page is a highlight of my experience at my first ever job at Revolution Huddersfield, where I not only developed myself immensely but also found a second home.
+description:  Hi, I'm Sofia! I created this website as a way to introduce myself beyond just a regular CV. Here, you'll find an insight into all my research projects, all of which I hope will continue to grow and evolve into something worth reading.
 layout: single
 title: Team Leader at Revolution Huddersfield
 ---
@@ -20,7 +20,8 @@ Starting off as a Bar Staff and being promoted to Team Leader after my first yea
 
 However, above all else, the most valuable thing I take with me are all the unforgettable memories and relationships I’ve built with all these amazing people. The team at Revolution Huddersfield was truly a family, and one I’m incredibly proud to have been a part of.
 
-![Image](managers.png) | ![Image](photobooth.jpg)
+![Image](managers.png)
+![Image](photobooth.jpg)
 ![Image](student.jpg)
 ![Image](society.jpg)
 ![Image](student1.jpg)
